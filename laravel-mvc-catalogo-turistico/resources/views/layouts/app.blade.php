@@ -66,7 +66,7 @@
 
     <footer class="text-white text-center py-3 mt-auto">
         <small>
-            Catálogo turístico de El Salvador. Proyecto académico: patrón MVC en Laravel.
+            Catálogo turístico de El Salvador.
             Elaborado por Alejandro Campos.
         </small>
     </footer>
