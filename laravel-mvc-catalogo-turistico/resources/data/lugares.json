@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lago de Coatepeque",
+        "departamento": "Santa Ana",
+        "categoria": "Lagos",
+        "descripcion": "Impresionante lago de origen volcánico rodeado de montañas, considerado uno de los paisajes más bellos del país. Sus aguas cambian a un tono turquesa varias veces al año y sus restaurantes con muelle son perfectos para pasar el día.",
+        "horario": "Todos los días, 8:00 a 18:00 (restaurantes y muelles)",
+        "ubicacion": "Caldera volcánica de Coatepeque, a 55 km de San Salvador",
+        "precios": { "entrada_nacional": 0, "entrada_extranjero": 0, "parqueo": 3.00, "moneda": "USD" },
+        "actividades": ["Kayak", "Paseo en lancha", "Natación", "Gastronomía local"],
+        "imagen": "coatepeque.svg"
+    },
+    {
+        "id": 2,
+        "titulo": "Volcán de Santa Ana (Ilamatepec)",
+        "departamento": "Santa Ana",
+        "categoria": "Volcanes",
+        "descripcion": "El volcán más alto de El Salvador, con 2,381 metros y una espectacular laguna cratérica de color turquesa en la cima. El ascenso guiado toma alrededor de dos horas desde el Parque Nacional Los Volcanes.",
+        "horario": "Ascensos de 8:00 a 11:00, todos los días",
+        "ubicacion": "Parque Nacional Los Volcanes, Santa Ana",
+        "precios": { "entrada_nacional": 3.00, "entrada_extranjero": 6.00, "parqueo": 2.00, "moneda": "USD" },
+        "actividades": ["Senderismo", "Observación del cráter", "Fotografía", "Guías locales"],
+        "imagen": "santa-ana.svg"
+    },
+    {
+        "id": 3,
+        "titulo": "Ruta de las Flores",
+        "departamento": "Sonsonate y Ahuachapán",
+        "categoria": "Pueblos",
+        "descripcion": "Recorrido de pueblos coloniales entre cafetales: Nahuizalco, Salcoatitán, Juayúa, Apaneca y Concepción de Ataco. Famosa por su festival gastronómico de fin de semana, sus murales coloridos y su clima fresco de montaña.",
+        "horario": "Festival gastronómico de Juayúa: sábados y domingos, 9:00 a 17:00",
+        "ubicacion": "Carretera CA-8, entre Sonsonate y Ahuachapán",
+        "precios": { "entrada_nacional": 0, "entrada_extranjero": 0, "parqueo": null, "moneda": "USD" },
+        "actividades": ["Festival gastronómico", "Cafés de altura", "Murales", "Compras de artesanías"],
+        "imagen": "ruta-de-las-flores.svg"
+    },
+    {
+        "id": 4,
+        "titulo": "Playa El Tunco",
+        "departamento": "La Libertad",
+        "categoria": "Playas",
+        "descripcion": "La playa más famosa del país y un destino de surf reconocido a nivel mundial, sede de campeonatos internacionales. Su roca icónica, sus atardeceres y su ambiente bohemio la convierten en una visita obligada.",
+        "horario": "Acceso libre las 24 horas",
+        "ubicacion": "Tamanique, La Libertad, a 40 km de San Salvador",
+        "precios": { "entrada_nacional": 0, "entrada_extranjero": 0, "parqueo": 3.00, "moneda": "USD" },
+        "actividades": ["Surf", "Clases de surf", "Atardeceres", "Vida nocturna"],
+        "imagen": "el-tunco.svg"
+    },
+    {
+        "id": 5,
+        "titulo": "Suchitoto",
+        "departamento": "Cuscatlán",
+        "categoria": "Pueblos",
+        "descripcion": "Pueblo colonial a orillas del lago Suchitlán, con calles empedradas, casonas blancas y la emblemática iglesia Santa Lucía. Es considerado la capital cultural de El Salvador por sus festivales de arte y su gastronomía.",
+        "horario": "Casco histórico de acceso libre; museos de 9:00 a 17:00",
+        "ubicacion": "Cuscatlán, a 47 km de San Salvador",
+        "precios": { "entrada_nacional": 0, "entrada_extranjero": 0, "parqueo": null, "moneda": "USD" },
+        "actividades": ["Paseo en lancha por el Suchitlán", "Observación de aves", "Museos", "Gastronomía"],
+        "imagen": "suchitoto.svg"
+    },
+    {
+        "id": 6,
+        "titulo": "Joya de Cerén",
+        "departamento": "La Libertad",
+        "categoria": "Arqueología",
+        "descripcion": "Sitio arqueológico declarado Patrimonio de la Humanidad por la UNESCO, conocido como la Pompeya de América. Conserva una aldea maya sepultada por ceniza volcánica hace unos 1,400 años y cuenta con museo de sitio.",
+        "horario": "Martes a domingo, 9:00 a 16:00",
+        "ubicacion": "San Juan Opico, La Libertad",
+        "precios": { "entrada_nacional": 1.00, "entrada_extranjero": 3.00, "parqueo": 1.00, "moneda": "USD" },
+        "actividades": ["Recorrido guiado", "Museo de sitio", "Historia maya", "Fotografía"],
+        "imagen": "joya-de-ceren.svg"
+    },
+    {
+        "id": 7,
+        "titulo": "Parque Nacional El Boquerón",
+        "departamento": "San Salvador",
+        "categoria": "Volcanes",
+        "descripcion": "Parque en la cima del volcán de San Salvador, con miradores hacia un cráter de 1.5 km de diámetro y senderos entre vegetación de altura. Su clima fresco y su cercanía a la capital lo hacen ideal para una tarde.",
+        "horario": "Todos los días, 8:00 a 17:00",
+        "ubicacion": "Volcán de San Salvador, a 30 minutos de la capital",
+        "precios": { "entrada_nacional": 1.00, "entrada_extranjero": 3.00, "parqueo": 1.00, "moneda": "USD" },
+        "actividades": ["Miradores del cráter", "Senderos", "Picnic", "Fotografía"],
+        "imagen": "el-boqueron.svg"
+    },
+    {
+        "id": 8,
+        "titulo": "Tazumal",
+        "departamento": "Santa Ana",
+        "categoria": "Arqueología",
+        "descripcion": "El sitio arqueológico maya más importante de El Salvador, con una pirámide principal de 24 metros de altura. Incluye el museo Stanley Boggs con piezas originales encontradas en la zona de Chalchuapa.",
+        "horario": "Martes a domingo, 9:00 a 16:00",
+        "ubicacion": "Chalchuapa, Santa Ana",
+        "precios": { "entrada_nacional": 1.00, "entrada_extranjero": 3.00, "parqueo": null, "moneda": "USD" },
+        "actividades": ["Pirámide principal", "Museo Stanley Boggs", "Historia maya", "Fotografía"],
+        "imagen": "tazumal.svg"
+    },
+    {
+        "id": 9,
+        "titulo": "Cerro El Pital",
+        "departamento": "Chalatenango",
+        "categoria": "Montañas",
+        "descripcion": "El punto más alto de El Salvador, con 2,730 metros, famoso por su clima frío, sus bosques nublados y sus campos de hortensias. Perfecto para acampar y ver el amanecer sobre las montañas de Chalatenango.",
+        "horario": "Todos los días, 7:00 a 18:00 (camping disponible)",
+        "ubicacion": "San Ignacio, Chalatenango",
+        "precios": { "entrada_nacional": 3.00, "entrada_extranjero": 3.00, "parqueo": 2.00, "moneda": "USD" },
+        "actividades": ["Camping", "Senderismo", "Café de altura", "Fotografía"],
+        "imagen": "el-pital.svg"
+    },
+    {
+        "id": 10,
+        "titulo": "Playa El Cuco",
+        "departamento": "San Miguel",
+        "categoria": "Playas",
+        "descripcion": "Extensa playa de arena suave en la zona oriental del país, ideal para nadar y disfrutar mariscos frescos. Muy cerca se encuentran Las Flores y Punta Mango, puntos de surf de clase mundial.",
+        "horario": "Acceso libre las 24 horas",
+        "ubicacion": "Chirilagua, San Miguel",
+        "precios": { "entrada_nacional": 0, "entrada_extranjero": 0, "parqueo": 2.00, "moneda": "USD" },
+        "actividades": ["Natación", "Mariscos frescos", "Paseos a caballo", "Surf en playas cercanas"],
+        "imagen": "el-cuco.svg"
+    }
+]
