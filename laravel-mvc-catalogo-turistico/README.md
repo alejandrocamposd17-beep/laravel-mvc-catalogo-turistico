@@ -124,16 +124,16 @@ public/img/lugares/               # Imágenes de los destinos
 <!-- TODO (Alejandro): ejecutar el proyecto, tomar las capturas y reemplazar los archivos de docs/capturas/ conservando los mismos nombres. Luego borrar este comentario. -->
 
 ### Listado de lugares
-![Listado de lugares](docs/capturas/01-listado.png)
+<img width="1907" height="866" alt="01-listado" src="https://github.com/user-attachments/assets/3d61919d-2d2f-4385-a802-48e4e5f74b83" />
 
 ### Detalle de un lugar
-![Detalle de un lugar](docs/capturas/02-detalle.png)
+<img width="1912" height="1028" alt="02-detalle" src="https://github.com/user-attachments/assets/2b975b33-6c3f-422d-89f3-a35591741ee8" />
 
 ### Formulario de contacto
-![Formulario de contacto](docs/capturas/03-contacto.png)
+<img width="1917" height="1020" alt="03-contacto" src="https://github.com/user-attachments/assets/01827b9d-7be9-4086-b89c-dcf6a738c5b2" />
 
 ### Confirmación de envío
-![Confirmación de envío](docs/capturas/04-confirmacion.png)
+<img width="1918" height="1022" alt="04-confirmacion" src="https://github.com/user-attachments/assets/906ab44f-30c0-497a-b05d-c96669ca92cc" />
 
 ## Autor
 
